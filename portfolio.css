@@ -1,0 +1,135 @@
+body{
+    background-color: maroon;
+    font-family: 'Times New Roman';
+    overflow:visible;
+    margin: 0;
+    font-family: 'calibri body';
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+
+#name{
+    font-size: xx-large;
+}
+
+
+#me{
+    float: right;
+    height: 910px;
+    width: 700px;
+    background-color: #ffff;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,2), 0 6px 20px 0 rgba(0,0,0,20);
+}
+
+
+#main{
+    border: solid black;
+    padding-left: 800px;
+    background-color: lightsalmon;
+}
+
+
+#dairy, #virt, #band, #kitchen{
+    background-color: lime;
+    margin-bottom: px;
+    float: inline-end;
+    font-size: 20px;
+    justify-content: right;
+    padding-right: 400px;
+    border: lime solid 20px;
+}
+
+
+#aboutme{
+    padding-left: 400px;
+    background-color: burlywood;
+}
+nav{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+}
+
+
+nav>ul{
+    text-align: right;
+}
+
+
+nav>ul>li{
+    display: inline-block;
+}
+
+
+nav>ul>li>a {
+    padding: 18px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration:none;
+    display: block;
+    color: rgba(255, 255, 255, 0.733);
+}
+
+
+nav>ul>li>a:hover{
+    box-shadow: 0 0 10 px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+    background: rgba(221, 109, 35, 0.678);
+    color: rgba(o, 35, 122, 0.7);
+}
+
+.button {
+    border: none;
+    color: #F15A29;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 4px;
+    cursor: pointer;
+    border-radius: 5px;
+    }
+
+
+    .button1 {
+    background-color: white;
+    color: #F15A29;
+    border: 2px solid #F15A29;
+    }
+
+    #am{
+        padding-left: 500px;
+    }
+    #myskills{
+        padding-left: 400px;
+        background-color: burlywood;
+        height: 300px;
+        padding-top: 200px;
+        font-size: xx-large;
+    }
+    #intrests{
+        background-color:burlywood;
+        height: 300px;
+        font-size: xx-large;
+    }
+#cook, #eat, #sing, #games{
+    float: right;
+}
+
+.footer{
+    padding: 0;
+    height: 500px;
+    width:100%;
+    background-color:burlywood;
+    }
+    .social{
+    text-align: center;
+    margin-top: 3%;
+    color: #ffffff;
+    }
+
+    #p1{
+        font-size: xx-large;
+    }
