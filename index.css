@@ -1,0 +1,17 @@
+                /*styling body*/
+                body{
+                    background-color: maroon;
+                    font-family: 'Times New Roman';
+                    overflow:visible;
+                    margin: 0;
+                    font-family: 'calibri body';
+                    padding-top: 30px;
+                    padding-left: 30px;
+                }
+
+                /*styling name*/
+                #name{
+                    font-size: xx-large;
+                }
+
+                
