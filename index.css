@@ -40,3 +40,10 @@
                     padding-right: 400px;
                     border: lime solid 20px;
                 }
+
+
+                /*style the about me section*/
+                #aboutme{
+                    padding-left: 400px;
+                    background-color: burlywood;
+                }
