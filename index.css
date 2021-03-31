@@ -82,3 +82,63 @@
                     background: rgba(221, 109, 35, 0.678);
                     color: rgba(o, 35, 122, 0.7);
                 }
+
+
+                /*stling the buttons*/
+                .button {
+                    border: none;
+                    color: #F15A29;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 18px;
+                    margin: 4px 4px;
+                    cursor: pointer;
+                    border-radius: 5px;
+                    }
+                
+                
+                    .button1 {
+                    background-color: white;
+                    color: #F15A29;
+                    border: 2px solid #F15A29;
+                    }
+
+                    /*styling the my skills section*/
+                    #am{
+                        padding-left: 500px;
+                    }
+                    #myskills{
+                        padding-left: 400px;
+                        background-color: burlywood;
+                        height: 300px;
+                        padding-top: 200px;
+                        font-size: xx-large;
+                    }
+                    #intrests{
+                        background-color:burlywood;
+                        height: 300px;
+                        font-size: xx-large;
+                    }
+                #cook, #eat, #sing, #games{
+                    float: right;
+                }
+
+                /*styling the footer section*/
+                .footer{
+                    padding: 0;
+                    height: 500px;
+                    width:100%;
+                    background-color:burlywood;
+                    }
+                    .social{
+                    text-align: center;
+                    margin-top: 3%;
+                    color: #ffffff;
+                    }
+                
+                    #p1{
+                        font-size: xx-large;
+                    }
+                
