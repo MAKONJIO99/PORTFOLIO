@@ -22,3 +22,21 @@
                     background-color: #ffff;
                     box-shadow: 0 8px 16px 0 rgba(0,0,0,2), 0 6px 20px 0 rgba(0,0,0,20);
                 }
+
+                /*syling main heading*/
+                #main{
+                    border: solid black;
+                    padding-left: 800px;
+                    background-color: lightsalmon;
+                }
+
+                /*styling the projects done section*/
+                #dairy, #virt, #band, #kitchen{
+                    background-color: lime;
+                    margin-bottom: px;
+                    float: inline-end;
+                    font-size: 20px;
+                    justify-content: right;
+                    padding-right: 400px;
+                    border: lime solid 20px;
+                }
